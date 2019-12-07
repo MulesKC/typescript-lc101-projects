@@ -23,4 +23,4 @@ let daysToMars: number = hoursToMars / 24;
 
 
 // Code the output statement here (use a template literal):
-console.log(`${spacecraftName} will take ${daysToMars} to get to Mars.`)
+console.log(`${spacecraftName} will take ${daysToMars} days to get to Mars.`)

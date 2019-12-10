@@ -1,4 +1,4 @@
-import { Payload } from './Payload.ts';
+import { Payload } from './Payload';
 
 
 

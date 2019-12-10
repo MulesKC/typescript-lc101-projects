@@ -4,3 +4,10 @@
 // TODO: 
 // * Code the Astronaut, Cargo, and Rocket classes in new files.
 // * Import the three classes into this file.
+
+import { Astronaut } from './Astronaut'
+
+import { Cargo } from './Cargo'
+
+import { Rocket } from './Rocket'
+
